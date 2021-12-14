@@ -1,0 +1,178 @@
+
+.navbar{
+    background-color: #21246b;
+}
+.logo{
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    margin-left: 20px;
+}
+.item{
+    color: white !important;
+    font-weight: bold;
+    margin-left: 40px;
+}
+.items{
+    color:dodgerblue !important;
+    font-weight: bold;
+}
+.fa-search{
+      margin-right: 30px;
+}
+.first{
+      height: 600px;
+      width: 60%;
+      float: right;
+      
+    }
+.heading{
+    margin-left: 50px;
+    margin-top: 100px;
+    color: white;
+    font-weight: bold;
+    
+
+}
+.txt{
+    background-color: #21246b  ;
+    padding-top:100px ;
+    padding-bottom: 180px;
+}
+.para{
+     margin-left: 50px;
+     color: white;
+     font-weight: bold;
+}
+.butn{
+      margin-left: 50px;
+      background-color: rgb(93, 170, 248);
+      height: 40px;
+      width: 150px;
+      font-weight: bold;
+      border-radius: 3px;
+      color: white;
+      text-align: center !important;
+      padding-right: 30px;
+      padding-left: 30px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+     
+}
+.mid{
+   
+    margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+} 
+.head2{
+       margin-left: 20px;
+       color: aquamarine;
+       display: inline-block;
+
+       
+}
+.head1{
+     text-align: center;
+     margin-left: 570px;
+     margin-bottom: 30px;
+     display: inline-block;
+     flex-direction: row;
+}
+.p{
+    margin-left: 220px ;
+    font-weight: bold;
+    
+    
+}
+.walet{
+      margin-left:120px ;
+      margin-bottom: 20px;
+}
+.curen{
+    text-align: center;
+}
+.card1{
+    background-color: rgb(243, 236, 236);
+    padding: 30px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.butn1{
+    margin-left: 110px;
+    color: black;
+    font-weight: bold;
+}
+.view{
+    margin-left: 700px;
+    font-size: 20px ;
+    background-color: dodgerblue;
+    width: 150px;
+    color: white !important;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 3px;
+   
+}
+.sec{
+    height: 600px;
+    width: 50%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.parag{
+    float: right;
+}
+.sec{
+    height: 600px;
+    margin-top: 00px;
+    width: 50%;
+    float: left;
+    box-shadow: 10px 0px 10px rgb(156, 216, 216);
+}
+.about{
+
+}
+.last{
+    background-color: #060838;
+    margin-top: 100px;
+
+}
+.head3{
+    color: rgb(21, 138, 184);
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: ;
+}
+.head4{
+    display:inline-block;
+    color: white;
+    padding-top: 80px;
+}
+.p1{
+    color: white;
+    font-weight: bold;
+    
+    
+}
+.para2{
+    float: right;
+    background-color:#060838 ;
+    color: white;
+    height: 600px;
+    width: 50%;
+    padding: 40px;
+    padding-top: 130px;
+}
+.think{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer{
+    margin-top: 30px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
